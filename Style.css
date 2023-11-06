@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    width: 80%;
+    height: 100vh ;
+    display: flex ;
+    justify-content; space-between;
+    background-color : purple;
+}
+
+.box {
+    width: 20% ; 
+    height: 160px ;
+    background-color: white; 
+    margin: 0 20px;
+    margin-top: 10px
+
+    
+  }
+  
+
+
+
